@@ -6,8 +6,8 @@ from items.meele import allmeele
 
 # Set here your browser name and credentials
 browserName = 'brave'
-email = 'iurydemattos@outlook.com'
-pwd = '5aRutiy3'
+email = ''
+pwd = ''
 
 # Component position
 dialogLoginButton = {'x': 1114, 'y': 144}
